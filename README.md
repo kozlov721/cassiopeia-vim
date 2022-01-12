@@ -4,6 +4,8 @@
 
 Fonts used in the screenshots are [Fira Code](https://github.com/tonsky/FiraCode) and [Operator Mono](https://github.com/keyding/Operator-Mono) (for cursive).
 
+More screenshots [here](./pictures)
+
 ### About
 
 Heavilly inspired (that means copied and changed colors)
