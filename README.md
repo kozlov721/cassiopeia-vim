@@ -4,7 +4,7 @@
 
 Fonts used in the screenshots are [Fira Code](https://github.com/tonsky/FiraCode) and [Operator Mono](https://github.com/keyding/Operator-Mono) (for cursive).
 
-More screenshots [here](./pictures)
+More screenshots [here](./pictures).
 
 ### About
 
@@ -36,9 +36,6 @@ colorscheme cassiopeia
 
 **Note:** The configuration options should be placed before `colorscheme cassiopeia` .
 
-- `g:cassiopeia_style`: Customize the style of this color scheme.
-  - Available values: `'night'`, `'storm'`
-  - Default value: `'night'`
 - `g:cassiopeia_transparent_background`: Set to `1` to enable transparent background.
   - Available values: `0`, `1`
   - Default value: `0`
