@@ -8,14 +8,14 @@
 	<img src="pictures/cassiopeia_3.png">
 </p>
 
-for more screenshot, check [here](./pictures)
+Fonts used in the screenshots are [Fira Code](https://github.com/tonsky/FiraCode) and [Operator Mono](https://github.com/keyding/Operator-Mono)(for cursive).
 
 ### About
 
 Heavilly inspired (that means copied and changed colors)
 by [ghifarit53](https://github.com/ghifarit53/tokyonight-vim)'s theme `tokyonight`
 
-## this colorscheme only support true colors
+## This colorscheme only support true colors!
 
 ### Installation
 
@@ -64,7 +64,7 @@ colorscheme cassiopeia
 
 ### Credits
 
-- [ghifarit53](https://github.com/ghifarit53/tokyonight-vim) for the original plugin
+- [ghifarit53](https://github.com/ghifarit53/tokyonight-vim) for the original plugin (absolutely check this theme)
 
 ### License
 
