@@ -8,7 +8,7 @@
 	<img src="pictures/cassiopeia_3.png">
 </p>
 
-Fonts used in the screenshots are [Fira Code](https://github.com/tonsky/FiraCode) and [Operator Mono](https://github.com/keyding/Operator-Mono)(for cursive).
+Fonts used in the screenshots are [Fira Code](https://github.com/tonsky/FiraCode) and [Operator Mono](https://github.com/keyding/Operator-Mono) (for cursive).
 
 ### About
 
