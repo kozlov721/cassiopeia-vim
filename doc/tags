@@ -1,0 +1,17 @@
+g:cassiopeia_current_word	cassiopeia.txt	/*g:cassiopeia_current_word*
+g:cassiopeia_cursor	cassiopeia.txt	/*g:cassiopeia_cursor*
+g:cassiopeia_disable_italic_comment	cassiopeia.txt	/*g:cassiopeia_disable_italic_comment*
+g:cassiopeia_enable_italic	cassiopeia.txt	/*g:cassiopeia_enable_italic*
+g:cassiopeia_menu_selection_background	cassiopeia.txt	/*g:cassiopeia_menu_selection_background*
+g:cassiopeia_style	cassiopeia.txt	/*g:cassiopeia_style*
+g:cassiopeia_transparent_background	cassiopeia.txt	/*g:cassiopeia_transparent_background*
+cassiopeia	cassiopeia.txt	/*cassiopeia*
+cassiopeia-airline	cassiopeia.txt	/*cassiopeia-airline*
+cassiopeia-credits	cassiopeia.txt	/*cassiopeia-credits*
+cassiopeia-install	cassiopeia.txt	/*cassiopeia-install*
+cassiopeia-licence	cassiopeia.txt	/*cassiopeia-licence*
+cassiopeia-lightline	cassiopeia.txt	/*cassiopeia-lightline*
+cassiopeia-options	cassiopeia.txt	/*cassiopeia-options*
+cassiopeia-ports	cassiopeia.txt	/*cassiopeia-ports*
+cassiopeia-statusline	cassiopeia.txt	/*cassiopeia-statusline*
+cassiopeia.txt	cassiopeia.txt	/*cassiopeia.txt*

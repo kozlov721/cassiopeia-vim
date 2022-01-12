@@ -1,0 +1,108 @@
+*cassiopeia.txt*			Modified: 2022 Jan
+
+
+	cassiopeia.vim - Dark Colorscheme by Martin Kozlovsky~
+
+
+							*cassiopeia*
+A clean, dark theme that resembles the night sky at summer. Heavilly based on the theme 'Tokyonight' by Ghifari Taqiuddin.
+
+Features:
+ - Support for numerous file types and plugin
+ - Customizable
+ - Italic support (https://github.com/sainnhe/icursive-nerd-font)
+
+For screenshots and more details please visit:
+https://github.com/xkozlov1/cassiopeia-vim
+
+1. Install				|cassiopeia-install|
+2. Options			    	|cassiopeia-options|
+5. Credits			    	|cassiopeia-credits|
+6. License				|cassiopeia-licence|
+
+==============================================================================
+1. Install						*cassiopeia-install*
+
+This colorscheme works best with vim-polyglot. Please install it first:
+https://github.com/sheerun/vim-polyglot
+
+Note: this colorscheme only support true colors!
+
+Cassiopeia can be installed by maually moving the files to their appropriated
+directories, using the native |packages| system or with a custom plugin
+manager. For |vim-plug|: >
+
+	Plug 'xkozlov1/cassiopeia-vim'
+<
+Then, add this to your |.vimrc|: >
+
+	set termguicolors
+
+	let g:cassiopeia_enable_italic = 1
+
+	colorscheme cassiopeia
+<
+==============================================================================
+2. Options						*cassiopeia-options*
+
+Supported options can be controlled by setting global variables (|g:|).
+Boolean options are set with numbers `1` or `0` for true and false,
+respectively. Options should be placed before setting the colorscheme.
+
+ *g:cassiopeia_style*		{string} Default: `'night'`
+				Available values: `'night'`, `'storm'`.
+				Customize the style of this color scheme.
+
+ *g:cassiopeia_transparent_background*
+				{boolean} Default: 0
+				Set to 1 to enable transparent background.
+
+ *g:cassiopeia_menu_selection_background*
+				{string} Default: `'green'`
+				Available values: `'green'`, `'red'`,
+				`'blue'`.
+				Control the background color of
+				|hl-PmenuSel| and |hl-WildMenu|.
+
+ *g:cassiopeia_disable_italic_comment*
+				{boolean} Default: 0
+				Set to 1 to disable italic in comments.
+
+ *g:cassiopeia_enable_italic*	{boolean} Default: 0
+				Set to 1 to italicize keywords. This option
+				is designed to use with fonts that support
+				cursive italic styles, for example
+				Fira Code iCursive Op
+				https://github.com/sainnhe/icursive-nerd-font.
+
+ *g:cassiopeia_cursor*		{string} Default: `'auto'`
+				Available values: `'auto'`, `'red'`,
+				`'green'`, `'blue'`.
+				Customize the cursor color. Only works in GUI
+				clients.
+
+ *g:cassiopeia_current_word*	{string} Default: `'grey background'` (when
+						    not in transparent mode)
+						  `'bold'` (when in
+						    transparent mode)
+				Available values: `'bold'`, `'underline'`,
+				`'italic'`, `'grey background'`.
+				Some plugins can highlight the word under
+				current cursor (i.e. neoclide/coc-highlight
+				https://github.com/neoclide/coc-highlight),
+				you can use this option to control their
+				behavior.
+
+5. Credits						*cassiopeia-credits*
+
+Ghifarit53, for the original theme
+https://github.com/ghifarit53/tokyonight-vim
+
+
+==============================================================================
+6. License						*cassiopeia-licence*
+
+MIT License © Martin Kozlovsky
+https://github.com/xkozlov1/cassiopeia-vim/blob/master/LICENSE
+
+ vim:tw=78:ts=8:noet:ft=help:norl:
