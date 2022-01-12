@@ -1,11 +1,5 @@
 <p align="center">
-	<img src="pictures/cassiopeia_1.png">
-</p>
-<p align="center">
-	<img src="pictures/cassiopeia_2.png">
-</p>
-<p align="center">
-	<img src="pictures/cassiopeia_3.png">
+	<img src="pictures/cassiopeia_5.png">
 </p>
 
 Fonts used in the screenshots are [Fira Code](https://github.com/tonsky/FiraCode) and [Operator Mono](https://github.com/keyding/Operator-Mono) (for cursive).
