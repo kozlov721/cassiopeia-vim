@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-file -->
 <p align="center">
  <img src="pictures/cassiopeia_full.png">
 </p>
@@ -11,7 +12,7 @@ More screenshots [here](./pictures).
 A light, dark theme. Inspired by the [supernova remnant](<https://en.wikipedia.org/wiki/Cassiopeia_A>) in the Cassiopeie constelation.
 
 Heavilly inspired (that means copied and changed colors)
-by [ghifarit53](https://github.com/ghifarit53/tokyonight-vim)'s theme `tokyonight`
+by ghifarit53's theme [tokyonight](https://github.com/ghifarit53/tokyonight-vim).
 
 ## This colorscheme only support true colors
 
