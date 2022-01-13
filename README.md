@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="pictures/cassiopeia_5.png">
+ <img src="pictures/cassiopeia_full.png">
 </p>
 
 Fonts used in the screenshots are [Fira Code](https://github.com/tonsky/FiraCode) and [Operator Mono](https://github.com/keyding/Operator-Mono) (for cursive).
@@ -8,10 +8,14 @@ More screenshots [here](./pictures).
 
 ### About
 
+A light, dark theme. Inspired by the [supernova remnant]
+(<https://en.wikipedia.org/wiki/Cassiopeia_A>) in the
+Cassiopeie constelation.
+
 Heavilly inspired (that means copied and changed colors)
 by [ghifarit53](https://github.com/ghifarit53/tokyonight-vim)'s theme `tokyonight`
 
-## This colorscheme only support true colors!
+## This colorscheme only support true colors
 
 ### Installation
 
@@ -62,3 +66,4 @@ colorscheme cassiopeia
 ### License
 
 [MIT](./LICENSE)
+
