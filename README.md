@@ -9,7 +9,7 @@ More screenshots [here](./pictures).
 
 ### About
 
-A light, dark theme. Inspired by the [supernova remnant](<https://en.wikipedia.org/wiki/Cassiopeia_A>) in the Cassiopeie constelation.
+A light, dark theme. Inspired by the [supernova remnant](<https://en.wikipedia.org/wiki/Cassiopeia_A>) in the Cassiopeia constelation.
 
 Heavilly inspired (that means copied and changed colors)
 by ghifarit53's theme [tokyonight](https://github.com/ghifarit53/tokyonight-vim).
