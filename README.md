@@ -25,7 +25,7 @@ If you're using [vim-plug](https://github.com/junegunn/vim-plug),
 then it's jsut a matter of putting this
 
 ```vim
-Plug 'xkozlov1/cassiopeia-vim'
+Plug 'kozlov721/cassiopeia-vim'
 ```
 
 and this to your vim config.
