@@ -3,10 +3,10 @@
  <img src="pictures/cassiopeia_full.png">
 </p>
 
-Fonts used in the screenshots are [Fira Code](https://github.com/tonsky/FiraCode)
-and [Operator Mono](https://github.com/keyding/Operator-Mono) (for cursive).
+# Attention
 
-More screenshots [here](./pictures).
+This plugin is discontinued,
+go see [cassiopeia.nvim](https://github.com/kozlov721/cassiopeia.nvim).
 
 ### About
 
